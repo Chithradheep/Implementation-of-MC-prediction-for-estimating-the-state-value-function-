@@ -177,6 +177,7 @@ The following heatmap is generated for the estimated state-value function:
 - Terminal states have value 0.
 - States farther from terminal states have larger negative values.
 
+<img width="866" height="751" alt="image" src="https://github.com/user-attachments/assets/fd5775ea-c91f-4552-b9ac-dcbd21fd9185" />
 
 
 ---
