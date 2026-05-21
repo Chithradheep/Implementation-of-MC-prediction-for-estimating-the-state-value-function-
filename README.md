@@ -165,11 +165,9 @@ plt.show()
 
 ## Output
 
-```
 
 <img width="312" height="366" alt="image" src="https://github.com/user-attachments/assets/941f51b8-ec7d-4e8f-ad27-bd8879687763" />
 
-```
 
 ### Output Graph
 
