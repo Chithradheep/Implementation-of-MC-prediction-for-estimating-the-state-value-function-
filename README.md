@@ -165,7 +165,9 @@ plt.show()
 
 ## Output
 
-```text
+```
+
+<img width="312" height="366" alt="image" src="https://github.com/user-attachments/assets/941f51b8-ec7d-4e8f-ad27-bd8879687763" />
 
 ```
 
@@ -177,8 +179,7 @@ The following heatmap is generated for the estimated state-value function:
 - Terminal states have value 0.
 - States farther from terminal states have larger negative values.
 
-<img width="866" height="751" alt="image" src="https://github.com/user-attachments/assets/fd5775ea-c91f-4552-b9ac-dcbd21fd9185" />
-
+<img width="752" height="836" alt="image" src="https://github.com/user-attachments/assets/16c1829a-e6ed-4668-a6df-0ed015beb183" />
 
 ---
 ## Result
